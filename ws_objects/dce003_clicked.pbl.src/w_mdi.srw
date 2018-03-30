@@ -8,7 +8,7 @@ end forward
 
 global type w_mdi from window
 integer width = 2533
-integer height = 1408
+integer height = 1412
 boolean titlebar = true
 string title = "DataWindow Event"
 string menuname = "m_main"
