@@ -43,10 +43,6 @@ fontcharset fontcharset = ansi!
 fontpitch fontpitch = variable!
 fontfamily fontfamily = swiss!
 string facename = "Tahoma"
-//<<<<<<< HEAD
 string text = "test1"
-//=======
-string text = "none"
-//>>>>>>> master
 end type
 
