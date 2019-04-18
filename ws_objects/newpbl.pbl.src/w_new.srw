@@ -44,7 +44,7 @@ fontcharset fontcharset = ansi!
 fontpitch fontpitch = variable!
 fontfamily fontfamily = swiss!
 string facename = "Tahoma"
-string text = "none"
+string text = "test2"
 boolean cancel = true
 end type
 
