@@ -1,4 +1,5 @@
 //<<<<<<< HEAD
+//<<<<<<< HEAD
 ﻿$PBExportHeader$dce003_clicked.sra
 $PBExportComments$Generated Application Object
 forward
@@ -67,6 +68,8 @@ end if
 end event
 
 //=======
+//=======
+//>>>>>>> master
 ﻿$PBExportHeader$dce003_clicked.sra
 $PBExportComments$Generated Application Object
 forward
@@ -134,4 +137,7 @@ end if
 //end if
 end event
 
+//<<<<<<< HEAD
+//>>>>>>> master
+//=======
 //>>>>>>> master

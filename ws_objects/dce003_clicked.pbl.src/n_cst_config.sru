@@ -1,4 +1,5 @@
 //<<<<<<< HEAD
+//<<<<<<< HEAD
 ﻿$PBExportHeader$n_cst_config.sru
 forward
 global type n_cst_config from nonvisualobject
@@ -479,6 +480,8 @@ call super::destroy
 end on
 
 //=======
+//=======
+//>>>>>>> master
 ﻿$PBExportHeader$n_cst_config.sru
 forward
 global type n_cst_config from nonvisualobject
@@ -958,4 +961,7 @@ TriggerEvent( this, "destructor" )
 call super::destroy
 end on
 
+//<<<<<<< HEAD
+//>>>>>>> master
+//=======
 //>>>>>>> master

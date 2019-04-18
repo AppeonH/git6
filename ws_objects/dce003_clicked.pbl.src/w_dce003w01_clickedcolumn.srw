@@ -1,4 +1,5 @@
 //<<<<<<< HEAD
+//<<<<<<< HEAD
 ﻿$PBExportHeader$w_dce003w01_clickedcolumn.srw
 forward
 global type w_dce003w01_clickedcolumn from window
@@ -631,6 +632,8 @@ string text = "Test Items"
 end type
 
 //=======
+//=======
+//>>>>>>> master
 ﻿$PBExportHeader$w_dce003w01_clickedcolumn.srw
 forward
 global type w_dce003w01_clickedcolumn from window
@@ -1262,4 +1265,7 @@ long backcolor = 67108864
 string text = "Test Items"
 end type
 
+//<<<<<<< HEAD
+//>>>>>>> master
+//=======
 //>>>>>>> master

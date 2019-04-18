@@ -1,4 +1,5 @@
 //<<<<<<< HEAD
+//<<<<<<< HEAD
 ﻿$PBExportHeader$w_mdi.srw
 forward
 global type w_mdi from window
@@ -42,6 +43,8 @@ long BackColor=268435456
 end type
 
 //=======
+//=======
+//>>>>>>> master
 ﻿$PBExportHeader$w_mdi.srw
 forward
 global type w_mdi from window
@@ -84,4 +87,7 @@ type mdi_1 from mdiclient within w_mdi
 long BackColor=268435456
 end type
 
+//<<<<<<< HEAD
+//>>>>>>> master
+//=======
 //>>>>>>> master
