@@ -51,8 +51,13 @@ type cb_1 from commandbutton within w_mdi
 //<<<<<<< HEAD
 //<<<<<<< HEAD
 //<<<<<<< HEAD
+//<<<<<<< HEAD
 integer x = 370
 integer y = 608
+//=======
+integer x = 955
+integer y = 600
+//>>>>>>> master
 //=======
 integer x = 955
 integer y = 600
